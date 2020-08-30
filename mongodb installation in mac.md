@@ -23,3 +23,7 @@ https://www.mongodb.com/try/download/compass
 
 ## 8. Goto Application and Select Compass Icon 
 right click > Open
+
+## Restart MongoDB Server
+
+brew services run mongodb-community@4.0 start
