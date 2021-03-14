@@ -1,0 +1,409 @@
+-------------------------------------------------------------------------------------------------
+************************************ Udemy Course ***********************************************
+-------------------------------------------------------------------------------------------------
+
+1. Complete Python Bootcamp: Go from zero to hero in Python 3 Created by Jose Portilla
+
+https://www.udemy.com/course/complete-python-bootcamp/
+
+Hours: 24:09:27
+
+-------------------------------------------------------------------------------------------------
+
+2. Python for Data Science and Machine Learning Bootcamp Created by Jose Portilla
+
+https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/
+
+Hours: 22:29:08
+
+-------------------------------------------------------------------------------------------------
+
+3. Data Science and Machine Learning Bootcamp with R Created by Jose Portilla
+
+https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/
+
+Hours: 17:44:59
+
+-------------------------------------------------------------------------------------------------
+
+4. R Programming for Statistics and Data Science Created by 365 Careers
+
+https://www.udemy.com/course/r-programming-for-statistics-and-data-science/
+
+Hours: 06:41:01
+
+-------------------------------------------------------------------------------------------------
+
+5. R Programming: Advanced Analytics In R For Data Science Created by Kirill Eremenko
+
+https://www.udemy.com/course/r-analytics/
+
+Hours: 05:57:57
+
+-------------------------------------------------------------------------------------------------
+
+6. Machine Learning A-Z™: Hands-On Python & R In Data Science Created by Kirill Eremenko
+
+https://www.udemy.com/course/machinelearning/
+
+Hours: 41:19:46
+
+-------------------------------------------------------------------------------------------------
+
+7. Data Science A-Z™: Real-Life Data Science Exercises Included Created by Kirill Eremenko
+
+https://www.udemy.com/course/datascience/
+
+Hours: 21:00:00
+
+-------------------------------------------------------------------------------------------------
+ 
+8. Probability and Statistics for Business and Data Science Created by Jose Portilla
+
+https://www.udemy.com/course/probability-and-statistics-for-business-and-data-science/
+
+Hours: 05:14:16
+
+-------------------------------------------------------------------------------------------------
+
+9. The Complete SQL Bootcamp Created by Jose Portilla
+
+https://www.udemy.com/course/the-complete-sql-bootcamp/
+
+Hours: 08:00:24
+
+-------------------------------------------------------------------------------------------------
+
+10. NLP - Natural Language Processing with Python Created by Jose Portilla
+
+https://www.udemy.com/course/nlp-natural-language-processing-with-python/
+
+Hours: 11:30:24
+
+-------------------------------------------------------------------------------------------------
+
+11. Spark and Python for Big Data with PySpark Created by Jose Portilla
+
+https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/
+
+Hours: 10:00:24
+
+-------------------------------------------------------------------------------------------------
+
+12. Complete Guide to TensorFlow for Deep Learning with Python Created by Jose Portilla
+
+https://www.udemy.com/course/complete-guide-to-tensorflow-for-deep-learning-with-python/
+
+Hours: 14:00:24
+
+-------------------------------------------------------------------------------------------------
+
+13. Tableau 10 A-Z: Hands-On Tableau Training For Data Science! Created by Kirill Eremenko
+
+https://www.udemy.com/course/tableau10/
+
+Hours: 05:14:16
+
+-------------------------------------------------------------------------------------------------
+
+14. Data Science Career Guide - Interview Preparation Created by Jose Portilla
+
+https://www.udemy.com/course/data-science-career-guide-interview-preparation/
+
+Hours: 04:00:24
+
+15. Data Analysis with Pandas and Python Created by Boris Paskhaver
+
+https://www.udemy.com/course/data-analysis-with-pandas/
+
+Hours: 18:47:46
+
+-------------------------------------------------------------------------------------------------
+
+235
+
+-------------------------------------------------------------------------------------------------
+************************************ NPTEl Course ***********************************************
+-------------------------------------------------------------------------------------------------
+
+1. Introduction to Data Analytics - NPTEL MOOC
+
+https://www.youtube.com/watch?v=La-NZ6jOfoQ&list=PLRueFtKLr0QN7MmQ8pdpQerOe_s8vGJG4
+
+Hours: 25:14:16
+
+-------------------------------------------------------------------------------------------------
+
+2. NPTEL Data Science for Engineers
+
+https://www.youtube.com/watch?v=XohgKT13FKY&list=PLqICp9VkFcbEWeZ0Q-_6gs-HCRaqe5eyf
+
+Hours: 25:14:16
+
+-------------------------------------------------------------------------------------------------
+
+3. Python for Data science(IIT MADRAS)
+
+https://www.youtube.com/watch?v=tA42nHmmEKw&list=PLh2mXjKcTPSACrQxPM2_1Ojus5HX88ht7
+
+Hours: 09:14:16
+
+-------------------------------------------------------------------------------------------------
+
+4. Data Science for Engineers NPTEL
+
+https://www.youtube.com/watch?v=dzlUB8Ks-zs&list=PLcZ8rvWxBOlKYw6Aqo7Bn46dZbwt9IIQ8&index=1
+
+Hours: 25:14:16
+
+-------------------------------------------------------------------------------------------------
+
+5. ALGORITHMS for BIG DATA by IIT MADRAS
+
+https://www.youtube.com/watch?v=ERJMqi23OqA&list=PLUtfVcb-iqn-RqZ7OvmKEms33o2R4apFV
+
+Hours: 20:14:16
+
+-------------------------------------------------------------------------------------------------
+
+6. Introduction to R Software
+
+https://www.youtube.com/watch?v=N-DQ8iDlH_U&list=PLJ5C_6qdAvBFfF7qtFi8Pv_RK8x55jsUQ
+
+Hours: 20:14:16
+
+-------------------------------------------------------------------------------------------------
+
+7. Machine Learning for Engineering and Science Applica
+
+https://www.youtube.com/watch?v=_M-nDb0MIa4&list=PLyqSpQzTE6M-SISTunGRBRiZk7opYBf_K
+
+Hours: 40:14:16
+
+-------------------------------------------------------------------------------------------------
+
+8. Machine Learning, Sudeshna Sarkar
+
+https://www.youtube.com/watch?v=BRMS3T11Cdw&list=PLDp-I3dhx01OekMQd4jMhtZErVwOK_Nto
+
+Hours: 25:14:16
+
+-------------------------------------------------------------------------------------------------
+
+9. Deep Learning
+
+https://www.youtube.com/watch?v=aPfkYu_qiF4&list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT
+
+Hours: 40:14:16
+
+10. Machine Learning NPTEL
+
+https://www.youtube.com/watch?v=_vQ19L7JGSo&list=PL0oupJiha4sd8PYRdm4zlpYyYdervlmMS
+
+Hours: 30:14:16
+
+11. NOC July 2019 : Deep Learning
+
+https://www.youtube.com/watch?v=W3_yaf3HvHU&list=PLbRMhDVUMngc7NM-gDwcBzIYZNFSK2N1a
+
+Hours: 30:14:16
+
+12. Fundamentals of Artificial Intelligence
+
+https://www.youtube.com/watch?v=X_Qt0U66aH0&list=PLwdnzlV3ogoXaceHrrFVZCJKbm_laSHcH
+
+Hours: 25:14:16
+
+13. Deep learning IIT NPTEL (CS7015)
+
+https://www.youtube.com/watch?v=4TC5s_xNKSs&list=PLZEpw4xZOspJEn5s4wUj6uA1mw2_dk0ap
+
+Hours: 40:14:16
+
+14. Introduction to probability and Statistics
+
+https://www.youtube.com/watch?v=COI0BUmNHT8&list=PLyqSpQzTE6M_JcleDbrVyPnE0PixKs2JE
+
+Hours: 10:14:16
+
+15. Big Data Computing.:-Prof. Rajiv Misra
+
+https://www.youtube.com/watch?v=r5k-_RLIpuA&list=PLFW6lRTa1g813IyYHLRP_bWJEKQDeEcSP&index=1
+
+Hours: 15:14:16
+
+----------------------------------------------------------------------------------------------------
+
+Machine Learning Full Course | Learn Machine Learning | Machine Learning Tutorial | Simplilearn
+
+https://www.youtube.com/watch?v=9f-GarcDY58
+
+Hours: 06:14:16
+
+
+
+Probability and Statistics for Business and Data Scienc
+
+https://www.youtube.com/watch?v=hhNx4iWU0Ds&list=PL-i8do33HJoutVeQXSO1Qly92hThW2jbJ&index=2&t=0s
+
+Hours: 10:14:16
+
+
+--------------------------------------------------------------------------------------------------
+
+
+1. The Complete JavaScript Course 2020: Build Real Projects!
+
+https://www.udemy.com/course/the-complete-javascript-course/
+
+Hours: 28:20:10
+
+2. Angular 8 - The Complete Guide (2019+ Edition)
+
+https://www.udemy.com/course/the-complete-guide-to-angular-2/
+
+Hours: 37:20:10
+
+3. Spring Boot For Beginners
+
+https://www.udemy.com/course/spring-boot-essentials/
+
+Hours: 37:20:10
+
+4. Spring & Hibernate for Beginners (includes Spring Boot)
+
+https://www.udemy.com/course/spring-hibernate-tutorial/
+
+Hours: 7:20:10
+
+5. Full Stack: Angular and Spring Boot
+
+https://www.udemy.com/course/full-stack-angular-spring-boot-tutorial/
+
+Hours: 6:20:10
+
+
+
+----------------------------------------------------------------------------------
+
+NPTEl Videos Watching list by serial
+
+1. https://nptel.ac.in/courses/106/106/106106212/
+
+2. https://nptel.ac.in/courses/106/106/106106179/
+
+3. https://nptel.ac.in/courses/106/106/106106198/
+
+4. https://nptel.ac.in/courses/106/106/106106139/ 
+
+5. https://nptel.ac.in/courses/106/105/106105152/
+
+6. https://nptel.ac.in/courses/106/106/106106202/
+
+7. https://nptel.ac.in/courses/106/106/106106213/
+
+8. https://nptel.ac.in/courses/106/105/106105186/
+
+9. https://nptel.ac.in/courses/113/101/113101096/
+
+10. https://nptel.ac.in/courses/115/104/115104095/
+
+11. https://nptel.ac.in/courses/110/107/110107129/
+
+12. https://nptel.ac.in/courses/106/106/106106182/
+
+
+----------------------------------------------------------------------------------
+
+impotant link for data science
+
+
+https://www.simplilearn.com/what-skills-do-i-need-to-become-a-data-scientist-article
+
+https://courses.cognitiveclass.ai/dashboard
+
+https://www.kaggle.com/
+
+http://datasciencemasters.org/
+
+https://www.analyticsvidhya.com/blog/2019/10/8-ambitious-data-science-projects-github/
+
+https://www.freetutorialsus.com/python-for-data-science-and-machine-learning-bootcamp-2/
+
+----------------------------------------------------------------------------------
+
+
+Python for Data Science and Machine Learning Bootcamp
+
+Data Science and Machine Learning Bootcamp with R
+
+Complete Guide to TensorFlow for Deep Learning with Python
+
+Python for Financial Analysis and Algorithmic Trading
+
+The Complete SQL Bootcamp
+
+Spark and Python for Big Data with PySpark
+
+Scala and Spark for Big Data and Machine Learning
+
+---------------------------------------------------------------
+
+https://www.udemy.com/course/data-science-career-guide-interview-preparation/
+
+https://www.udemy.com/course/complete-guide-to-tensorflow-for-deep-learning-with-python/
+
+https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/
+
+https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/
+
+https://www.udemy.com/course/complete-guide-to-tensorflow-for-deep-learning-with-python/
+
+
+https://www.udemy.com/course/python-for-finance-and-trading-algorithms/
+
+https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/
+
+https://www.udemy.com/course/scala-and-spark-for-big-data-and-machine-learning/
+
+https://www.udemy.com/course/the-complete-sql-bootcamp/
+
+https://www.udemy.com/course/complete-python-bootcamp/
+
+--------------------------------------------------------------------------
+Math
+
+1. linear algebra
+
+2. matrix
+
+3. satistics
+
+4. probsbility
+
+5. permutation and combination
+
+6. calculus
+
+----------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

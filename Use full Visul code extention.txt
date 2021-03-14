@@ -1,0 +1,27 @@
+Use full Visul code extention
+
+1. Path Intellisence
+
+2. Live Server
+
+3. Visual Studio Intellicode
+
+4. Prettier
+
+5. Bracket Pair Colorizer
+
+6. Code Spell Checker
+
+7. GitLens
+
+8. Angular Snippets (Version 9)
+
+9. Auto Import
+
+10. Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets
+
+11. Copy/Paste Detector
+
+12. Material Icon Theme
+
+13. TSLint
